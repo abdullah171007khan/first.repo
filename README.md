@@ -1,3 +1,3 @@
 # first.repo
-<br>
-Hi, this is my first repo on github
+
+Hi,<br> this is my first repo on github
